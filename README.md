@@ -2,6 +2,8 @@
 
 🟢 A nostalgic 90s-style electronics storefront built in raw HTML/CSS.
 
+LINK : https://jhherre3.github.io/Retro-Store-Interface/
+
 ## 💾 Features
 
 - Retro aesthetic with lime-on-black styling
